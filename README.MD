@@ -38,5 +38,5 @@ The main file is **Run.py** where all the code are.
 **CAMOutputs** directory store the CAM files that are used for PCB miling machines.
 For machines used at VGU, use files in the GerberFiles directory.
 
-![Alt text](images/Schematic.jpeg.jpg?raw=true "Schematic")
-![Alt text](images/Schematic.jpeg.jpg?raw=true "Board layout")
+![alt text](https://github.com/giathinh24/Dust_Traffic_monitor/blob/master/images/Schematic.jpeg?raw=true "Schematic")
+![alt text](https://github.com/giathinh24/Dust_Traffic_monitor/blob/master/images/Board.jpeg?raw=true "Board layout")
